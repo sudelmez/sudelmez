@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a Mathematical Engineering student and into programming!<br>Currently working on: <br>   --> Flutter<br>   --> React Native<br>Have worked on:<br>   --> C/Cpp<br>   --> Python
+I am a Mathematical Engineering student and into programming!<br>Currently working on: <br>   --> Flutter<br>   --> React Native<br>
 
 
 ## 🌐 Socials:
