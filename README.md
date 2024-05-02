@@ -25,6 +25,8 @@ I am currently building projects with Flutter, React, React Native, Java and ent
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudelmez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sudelmez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 ---
