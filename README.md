@@ -1,7 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
 I am a Mathematical Engineering student!
-I am currently building projects with Flutter, React, React Native, Java and entegrating Docker!
+I am currently building projects with Flutter, React, DotNet and entegrating Docker!
+Aiming to be a fullstack developer!
 
 
 
